@@ -9,12 +9,7 @@ app.MapGet("/api/customers", async () =>
     var result = new List<object>();
 
     var connectionString =
-        "Host=ep-delicate-dew-za6vbgqb-pooler.c-2.eu-west-2.aws.neon.tech;" +
-        "Database=neondb;" +
-        "Username=neondb_owner;" +
-        "Password=npg_G9YQR5WuCDOc;" +
-        "SSL Mode=Require;" +
-        "Trust Server Certificate=true;";
+    Environment.GetEnvironmentVariable("DATABASE_URL");
 
     await using var conn = new NpgsqlConnection(connectionString);
 
