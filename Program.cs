@@ -39,6 +39,7 @@ app.MapGet("/api/customers", async () =>
     {
         result.Add(new
         {
+            customer_id = reader["customer_number"].ToString(),
             customer_number = reader["customer_number"].ToString(),
             full_name = reader["full_name"].ToString(),
             phone_number = reader["phone_number"].ToString(),
