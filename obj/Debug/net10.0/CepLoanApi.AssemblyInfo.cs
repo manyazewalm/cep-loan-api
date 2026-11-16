@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CepLoanApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6260e6f7b793a3b5d3bbee06920806309c9bada")]
 [assembly: System.Reflection.AssemblyProductAttribute("CepLoanApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CepLoanApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

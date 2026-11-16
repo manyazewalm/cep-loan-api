@@ -32,3 +32,4 @@ C:\Users\Coop\CepLoanApi\obj\Debug\net10.0\refint\CepLoanApi.dll
 C:\Users\Coop\CepLoanApi\obj\Debug\net10.0\CepLoanApi.pdb
 C:\Users\Coop\CepLoanApi\obj\Debug\net10.0\CepLoanApi.genruntimeconfig.cache
 C:\Users\Coop\CepLoanApi\obj\Debug\net10.0\ref\CepLoanApi.dll
+C:\Users\Coop\CepLoanApi\obj\Debug\net10.0\CepLoanApi.sourcelink.json
